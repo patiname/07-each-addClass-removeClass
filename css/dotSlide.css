@@ -46,3 +46,7 @@ li {
   background-color: gray;
   cursor: pointer;
 }
+
+.btn:first-child {
+  background-color: deeppink;
+}
